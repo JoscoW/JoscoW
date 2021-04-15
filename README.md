@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JoscoW
-- :mortar_board: 3rd Year Bsc Computer Science Student ...
+- :mortar_board: 3rd Year Bsc Computer Science Student
 - :pushpin: Gauteng, South Africa
 - :link: Check out my [Website](https://www.joscow.gtihub.io)
-- 📫 Reach me at : joshwalkerdev99@gmail.com ...
+- 📫 Reach me at : joshwalkerdev99@gmail.com 
 
 <!---
 JoscoW/JoscoW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
