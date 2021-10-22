@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoscoW
+- 👋 Hi, I’m Joshua Walker
 - :mortar_board: 3rd Year Bsc Computer Science Student
 - :pushpin: Gauteng, South Africa
 - :link: Check out my [Website](https://www.joscow.gtihub.io)
