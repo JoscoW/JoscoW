@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Joshua Walker
-- :mortar_board: 3rd Year Bsc Computer Science Student
+- 💻 Software Developer
+- :mortar_board: BScHons Computer Science
 - :pushpin: Gauteng, South Africa
-- 📫 Reach me at : joshwalkerdev99@gmail.com 
+- 📫 Reach me at: joshwalkerdev99@gmail.com 
 
 <!---
 JoscoW/JoscoW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
